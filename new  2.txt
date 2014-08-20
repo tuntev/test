@@ -1,0 +1,1 @@
+{{ URL::route('upload-offer-document',$offer_doc->id_offer) . '/'  . $offer_doc->id }}
